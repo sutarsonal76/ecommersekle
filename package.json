@@ -1,0 +1,20 @@
+{
+  "name": "e-commers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sutarsonal76/ecommersekle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sutarsonal76/ecommersekle/issues"
+  },
+  "homepage": "https://github.com/sutarsonal76/ecommersekle#readme",
+  "description": ""
+}
